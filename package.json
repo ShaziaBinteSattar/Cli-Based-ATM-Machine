@@ -1,0 +1,27 @@
+{
+    "name": "coding_with_umair_atm_machine",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "coding_with_umair_atm_machine": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^22.9.1",
+        "coding_with_umair_atm_machine": "file:",
+        "inquirer": "^9.3.7"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "keywords": [],
+    "description": ""
+}
